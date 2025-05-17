@@ -1,5 +1,3 @@
-# HealthcareAppointment_no_showAnalysis
-Patient Appointment system No show Analysis
 
 
 # Healthcare Appointment No-Show Analysis
@@ -41,11 +39,6 @@ The dataset includes over 100,000 medical appointment records with the following
 - **Microsoft Excel** — Initial data cleaning and filtering
 - **Power BI** — Data modeling and interactive dashboard creation
 
-## 🚀 How to Run the Project
-
-1. Clone the repository:
-   ```bash
-   git clone 
 
 
 ## Tools Used:
@@ -61,3 +54,16 @@ The dataset includes over 100,000 medical appointment records with the following
 ## Instructions:
 1. Open the `.pbix` file in Power BI.
 2. Interact with the report to explore the no-show patterns.
+
+   
+
+   ![Screenshot 2025-05-18 000612](https://github.com/user-attachments/assets/b42bf7cd-2d9e-42f2-9cce-c739ec8760d7)
+
+   
+![Screenshot 2025-05-18 000607](https://github.com/user-attachments/assets/dc277944-6515-40f8-a89a-ce3f7f3c2f2f)
+
+![Screenshot 2025-05-18 000559](https://github.com/user-attachments/assets/74118453-47a5-4852-9d0c-ce8c8a5923f9)
+
+![Screenshot 2025-05-18 000551](https://github.com/user-attachments/assets/02c59bf6-95ec-4d92-b5b3-b27b455a2717)
+![Screenshot 2025-05-18 000541](https://github.com/user-attachments/assets/c7d72787-67fc-4a28-92aa-5e374b236baf)
+
